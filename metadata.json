@@ -1,0 +1,6 @@
+{
+  "name": "TokenLab — Interactive LLM Tokenization & Encoding Visualizer",
+  "description": "An interactive laboratory demonstrating how human text transforms into tokens, token IDs, UTF-8 bytes, hexadecimal, and binary representations for large language models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
